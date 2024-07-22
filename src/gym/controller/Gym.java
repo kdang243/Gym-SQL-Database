@@ -38,6 +38,9 @@ public class Gym implements LoginWindowDelegate, GUIGymDelegate {
 	private void start() {
 		loginWindow = new LoginWindow();
 		loginWindow.showFrame(this);
+		// dbHandler.databaseSetup();
+		// gymWindow = new GymWindow();
+		// gymWindow.showFrame(this);
 	}
 
 	/**
