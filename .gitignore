@@ -1,0 +1,11 @@
+# Ignore all production files
+out
+out/*
+out/production/project_d9e5c_p3c9u_q7x2b/src/gym/ui/TerminalTransactions.class
+out/production/project_d9e5c_p3c9u_q7x2b/src/gym/ui/LoginWindow.class
+out/production/project_d9e5c_p3c9u_q7x2b/src/gym/sql/scripts/databaseSetup.sql
+out/production/project_d9e5c_p3c9u_q7x2b/src/gym/model/BranchModel.class
+out/production/project_d9e5c_p3c9u_q7x2b/src/gym/delegates/TerminalTransactionsDelegate.class
+out/production/project_d9e5c_p3c9u_q7x2b/src/gym/database/DatabaseConnectionHandler.class
+out/production/project_d9e5c_p3c9u_q7x2b/src/gym/controller/Bank.class
+out/production/project_d9e5c_p3c9u_q7x2b/.idea/sqldialects.xml
